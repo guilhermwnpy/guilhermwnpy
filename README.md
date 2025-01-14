@@ -1,7 +1,6 @@
 <div align="center">
 <h2>Bem vindo 👋</h2>
 Sou Guilherme, estudante de Engenharia Eletrônica na Universidade Federal de Sergipe, membro do Grupo de Pesquisa em Instrumentação Eletrônica
-</div>
 
 ## Linguagens
 Eu sou muito fã de `Python`, uma linguagem extremamente versátil capaz de fazer tudo, pra qualquer área pensável. Também uso `C` para programação em microcontroladores, `LaTeX` e `Markdown` para documentação e anotações do dia a dia, e algumas outras que uso menos.
@@ -26,3 +25,4 @@ Tem várias coisas na área de programação que eu gostaria de aprender e estou
 ![Rust](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust&color=%23f04900)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vuedotjs&color=%231a1a1a)
 
+</div>
