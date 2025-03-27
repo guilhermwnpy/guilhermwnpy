@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Bem vindo 👋</h2>
-Sou Guilherme, estudante de Engenharia Eletrônica na Universidade Federal de Sergipe, membro do Grupo de Pesquisa em Instrumentação Eletrônica
+Sou Guilherme, estudante de Engenharia Eletrônica na Universidade Federal de Sergipe, membro do <a href="https://github.com/instufs">Grupo de Pesquisa em Instrumentação Eletrônica</a>
 
 ## Linguagens
 Eu sou muito fã de `Python`, uma linguagem extremamente versátil capaz de fazer tudo, pra qualquer área pensável. Também uso `C` para programação em microcontroladores, `LaTeX` e `Markdown` para documentação e anotações do dia a dia, e algumas outras que uso menos.
