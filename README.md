@@ -9,6 +9,7 @@ Eu sou muito fã de `Python`, uma linguagem extremamente versátil capaz de faze
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=blue&color=white)
 ![Latex](https://img.shields.io/badge/-latex-black?style=for-the-badge&logo=latex&logoColor=white&color=%23008080)
 ![Markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white&color=black)
+![Typst](https://img.shields.io/badge/typst-white?style=for-the-badge&logo=typst&color=white)
 
 ## Ferramentas
 Uso principalmente o `Visual Studio Code` para qualquer tipo de programação, `Octave` para computação algébrica, o `Obsidian` para anotações pessoais, anotações de estudos e pesquisas acadêmicas, `Zotero` para referências de pesquisas. `Inkscape` para edição de imagens e criação de artes 
@@ -24,5 +25,7 @@ Tem várias coisas na área de programação que eu gostaria de aprender e estou
 
 ![Rust](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust&color=%23f04900)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vuedotjs&color=%231a1a1a)
+![Flutter](https://img.shields.io/badge/typst-white?style=for-the-badge&logo=flutter&color=%235fc8f8)
+
 
 </div>
